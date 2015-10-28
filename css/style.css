@@ -1,0 +1,26 @@
+div h1 {
+  font-size: 42pt;
+  font-weight: bolder;
+  margin-top: 1em;
+}
+h2 {
+  font-size: 36pt;
+  font-weight: bold;
+  margin: 1em 0;
+}
+ul {
+  margin: 1.5em;
+  list-style-type: circle;
+  line-height: 1.75em;
+}
+ul.small {
+  font-size: 20pt;
+  line-height: 1.2em;
+  margin: 0.75em;
+}
+.frag {
+  font-weight: 700;
+  background-color: #f5f5dc;
+  width: 60%;
+  text-align: right;
+}
