@@ -14,6 +14,10 @@
     "slideshow",
     "css3"
   ],
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/cramhead/meteor-overview.git"
+  },
   "author": {
     "name": "Marc d'Entremont",
     "web": "http://github.com/cramhead"
